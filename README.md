@@ -4,18 +4,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47FFE8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Alan!+%F0%9F%91%8B;Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+interfaces!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47FFE8&center=true&vCenter=true&width=600&lines=Olá%2C+sou+o+Alan!+👋;Desenvolvedor+Front-End+em+formação;Transformando+ideias+em+interfaces!;Aberto+ao+primeiro+emprego+em+TI+💼)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alanrossinedev.alanrossinedev&color=47ffe8" alt="visitors"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-47ffe8?style=flat&logo=briefcase&logoColor=0d1117" alt="open to work"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65a-bd6019234a0d.gif" width="380" alt="front-end gif"/>
 </div>
 
 ---
@@ -26,9 +27,10 @@ Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **
 
 - 🎓 Cursando **ADS** na Unicesumar — Londrina/PR
 - 💻 Foco em **Desenvolvimento Front-End**
-- 🌱 Aprendendo **HTML5, CSS, JavaScript, Java e C#**
+- 🌱 Aprendendo **HTML5, CSS3, JavaScript, C e React**
 - 🚀 Objetivo: contribuir em projetos reais e crescer como dev
 - 💼 **Aberto ao primeiro emprego na área de TI!**
+- 🧠 Curioso, dedicado e sempre buscando evoluir
 
 ---
 
@@ -58,6 +60,18 @@ Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **
 
 ---
 
+## 🎯 Próximas metas
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+---
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -70,6 +84,30 @@ Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alanrossinedev&theme=tokyonight&hide_border=true&locale=pt_BR&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alanrossinedev&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanrossinedev/alanrossinedev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanrossinedev/alanrossinedev/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/alanrossinedev/alanrossinedev/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
@@ -88,22 +126,6 @@ Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **
 </div>
 
 > 💡 Mais projetos chegando em breve — acompanhe o perfil!
-
----
-
-## 🌱 Atualmente estudando
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
-> 🎯 **Próximas metas:** React · Node.js · TypeScript
 
 ---
 
