@@ -99,6 +99,8 @@ Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **
 
 ---
 
+---
+
 ## 🐍 Contribuições
 
 <div align="center">
