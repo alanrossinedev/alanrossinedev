@@ -119,6 +119,7 @@ Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
+| [🫓 CARDAPIO-WEB](https://github.com/alanrossinedev/CARDAPIO-WEB) | Cardápio digital com carrinho e pedido via WhatsApp | HTML · CSS · JavaScript | ✅ Concluído |
 | [🔐 projeto-login](https://github.com/alanrossinedev/projeto-login) | Tela de login responsiva com Bootstrap 5 | HTML · CSS · Bootstrap | ✅ Concluído |
 | [🔐 projeto-login-autoral](https://github.com/alanrossinedev/projeto-login-autoral) | Tela de login criada do zero com estilo próprio | HTML · CSS · JavaScript | ✅ Concluído |
 | [🌐 dio-lab-open-source](https://github.com/alanrossinedev/dio-lab-open-source) | Contribuição no laboratório open source da DIO | Git · GitHub · Markdown | ✅ Concluído |
