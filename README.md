@@ -89,18 +89,6 @@ Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alanrossinedev&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
